@@ -1,0 +1,7 @@
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\bin\Debug\labsheet 1.exe.config
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\bin\Debug\labsheet 1.exe
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\bin\Debug\labsheet 1.pdb
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\obj\Debug\labsheet 1.csproj.AssemblyReference.cache
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\obj\Debug\labsheet 1.csproj.CoreCompileInputs.cache
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\obj\Debug\labsheet 1.exe
+C:\Users\rvima\source\repos\labsheet 1\labsheet 1\obj\Debug\labsheet 1.pdb
